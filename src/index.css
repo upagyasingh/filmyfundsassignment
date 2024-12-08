@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@media screen and (max-width:700px) {
+    .hide{
+        display: none;
+    }
+}
